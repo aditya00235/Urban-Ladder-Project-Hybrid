@@ -1,0 +1,988 @@
+2021-09-23 07:07:37,989 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:07:38,517 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:07:38,524 [main] ERROR runner.Runner - This is dummy error which i am giving after keys send in search box
+2021-09-23 07:07:40,798 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:07:40,802 [main] INFO  runner.Runner - search element found
+2021-09-23 07:07:41,127 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:07:41,724 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:07:41,724 [main] ERROR runner.Runner - This is dummy error which i am giving after keys send in search box
+2021-09-23 07:07:43,027 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:07:43,027 [main] INFO  runner.Runner - search element found
+2021-09-23 07:07:43,071 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:07:43,583 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:07:43,584 [main] ERROR runner.Runner - This is dummy error which i am giving after keys send in search box
+2021-09-23 07:07:44,604 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:07:44,604 [main] INFO  runner.Runner - search element found
+2021-09-23 07:07:44,658 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:07:45,225 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:07:45,225 [main] ERROR runner.Runner - This is dummy error which i am giving after keys send in search box
+2021-09-23 07:07:46,354 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:07:46,354 [main] INFO  runner.Runner - search element found
+2021-09-23 07:13:59,850 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:14:00,219 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:14:01,881 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:14:01,884 [main] INFO  runner.Runner - search element found
+2021-09-23 07:14:02,076 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:14:02,711 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:14:04,097 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:14:04,097 [main] INFO  runner.Runner - search element found
+2021-09-23 07:14:04,277 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:14:04,746 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:14:05,839 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:14:05,839 [main] INFO  runner.Runner - search element found
+2021-09-23 07:14:05,977 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:14:06,901 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:14:08,084 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:14:08,085 [main] INFO  runner.Runner - search element found
+2021-09-23 07:18:48,786 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:18:49,178 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:18:50,966 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:18:50,973 [main] INFO  runner.Runner - search element found
+2021-09-23 07:18:52,127 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:18:52,444 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:18:53,906 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:18:53,906 [main] INFO  runner.Runner - search element found
+2021-09-23 07:18:55,326 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:18:56,059 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:18:57,920 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:18:57,920 [main] INFO  runner.Runner - search element found
+2021-09-23 07:18:58,955 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:18:59,442 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:19:01,473 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:19:01,473 [main] INFO  runner.Runner - search element found
+2021-09-23 07:20:54,656 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:20:55,241 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:20:56,991 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:20:56,996 [main] INFO  runner.Runner - search element found
+2021-09-23 07:20:57,928 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:20:58,469 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:20:59,800 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:20:59,800 [main] INFO  runner.Runner - search element found
+2021-09-23 07:21:00,651 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:21:01,287 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:21:02,920 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:21:02,920 [main] INFO  runner.Runner - search element found
+2021-09-23 07:21:03,827 [main] INFO  runner.Runner - Search box found
+2021-09-23 07:21:04,192 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 07:21:06,001 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 07:21:06,002 [main] INFO  runner.Runner - search element found
+2021-09-23 09:00:38,594 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:00:39,026 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:00:41,589 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:00:41,594 [main] INFO  runner.Runner - search element found
+2021-09-23 09:00:42,401 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:00:43,038 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:00:47,219 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:00:47,219 [main] INFO  runner.Runner - search element found
+2021-09-23 09:00:49,358 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:00:49,775 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:00:51,500 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:00:51,501 [main] INFO  runner.Runner - search element found
+2021-09-23 09:00:52,500 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:00:53,711 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:00:56,480 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:00:56,480 [main] INFO  runner.Runner - search element found
+2021-09-23 09:00:58,108 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:00:59,939 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:05:45,109 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:05:52,901 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:05:53,053 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:05:53,464 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:05:53,572 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:05:54,106 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:05:54,112 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:07:10,130 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:07:15,278 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:07:15,358 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:07:15,593 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:07:15,647 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:07:15,918 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:07:15,922 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:08:17,174 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:08:20,134 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:08:20,226 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:08:20,453 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:08:20,500 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:08:20,957 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:08:20,961 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:10:38,742 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:10:42,237 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:10:42,314 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:10:42,653 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:10:42,685 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:10:42,904 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:10:42,910 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:11:52,492 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:11:56,025 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:11:56,135 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:11:56,257 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:11:56,281 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:11:56,423 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:11:56,426 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:17:34,258 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:17:34,659 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:17:36,527 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:17:36,532 [main] INFO  runner.Runner - search element found
+2021-09-23 09:17:39,460 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:17:39,842 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:17:41,548 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:17:41,549 [main] INFO  runner.Runner - search element found
+2021-09-23 09:17:44,632 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:17:44,913 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:17:46,529 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:17:46,529 [main] INFO  runner.Runner - search element found
+2021-09-23 09:17:49,318 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:17:50,090 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:17:52,376 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:17:52,376 [main] INFO  runner.Runner - search element found
+2021-09-23 09:17:55,917 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:17:58,318 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:17:58,356 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:17:58,790 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:17:58,816 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:17:58,987 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:17:58,987 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:24:37,784 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:24:38,175 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:24:40,393 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:24:40,400 [main] INFO  runner.Runner - search element found
+2021-09-23 09:24:43,362 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:24:43,726 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:24:45,211 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:24:45,211 [main] INFO  runner.Runner - search element found
+2021-09-23 09:24:48,270 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:24:48,430 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:24:50,159 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:24:50,159 [main] INFO  runner.Runner - search element found
+2021-09-23 09:24:53,262 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:24:53,881 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:24:56,051 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:24:56,051 [main] INFO  runner.Runner - search element found
+2021-09-23 09:24:59,135 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:25:02,749 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:25:02,807 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:25:03,099 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:25:03,126 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:25:03,300 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:25:03,301 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:26:18,886 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:26:22,088 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:26:22,186 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:26:22,334 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:26:22,359 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:26:22,542 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:26:22,547 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:26:25,518 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:26:28,767 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:26:28,803 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:26:28,971 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:26:28,987 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:26:29,149 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:26:29,149 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:28:09,070 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:28:09,499 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:28:11,146 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:28:11,148 [main] INFO  runner.Runner - search element found
+2021-09-23 09:28:14,067 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:28:14,367 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:28:15,916 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:28:15,916 [main] INFO  runner.Runner - search element found
+2021-09-23 09:28:19,273 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:28:22,636 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:28:22,698 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:28:22,919 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:28:22,956 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:28:23,106 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:28:23,107 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:28:26,762 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:28:30,956 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:28:30,992 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:28:31,206 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:28:31,221 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:28:31,377 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:28:31,378 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:53:28,416 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:53:28,986 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:53:30,813 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:53:30,816 [main] INFO  runner.Runner - search element found
+2021-09-23 09:53:33,932 [main] INFO  runner.Runner - Search box found
+2021-09-23 09:53:34,696 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 09:53:36,513 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 09:53:36,513 [main] INFO  runner.Runner - search element found
+2021-09-23 09:53:39,804 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:53:43,822 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:53:43,906 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:53:44,110 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:53:44,152 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:53:44,341 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:53:44,341 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:53:47,238 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:53:49,757 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:53:49,928 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 09:53:50,108 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 09:53:50,123 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 09:53:50,324 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 09:53:50,325 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 09:53:53,769 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 09:53:56,249 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 09:53:56,373 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 10:00:19,435 [main] INFO  runner.Runner - Search box found
+2021-09-23 10:00:20,076 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 10:00:22,454 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 10:00:22,457 [main] INFO  runner.Runner - search element found
+2021-09-23 10:00:25,343 [main] INFO  runner.Runner - Search box found
+2021-09-23 10:00:25,775 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 10:00:27,311 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 10:00:27,311 [main] INFO  runner.Runner - search element found
+2021-09-23 10:00:31,299 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 10:00:34,715 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 10:00:34,761 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 10:00:34,925 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 10:00:34,956 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 10:00:35,176 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 10:00:35,176 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 10:00:38,461 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 10:00:42,065 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 10:00:42,091 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 10:00:42,209 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 10:00:42,227 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 10:00:42,431 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 10:00:42,432 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 10:00:45,602 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 10:00:49,299 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 10:00:49,321 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:07:16,246 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:07:17,938 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:07:21,821 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:07:21,827 [main] INFO  runner.Runner - search element found
+2021-09-23 18:07:26,065 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:07:26,458 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:07:29,206 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:07:29,206 [main] INFO  runner.Runner - search element found
+2021-09-23 18:07:33,554 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:07:40,208 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:07:40,284 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:07:40,536 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 18:07:40,863 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 18:07:41,107 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 18:07:41,107 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 18:07:45,091 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:07:48,476 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:07:48,523 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:07:49,428 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 18:07:49,555 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 18:07:49,795 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 18:07:49,795 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 18:07:54,768 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:08:02,475 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:08:02,567 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:09:48,413 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:09:48,803 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:09:53,793 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:09:53,800 [main] INFO  runner.Runner - search element found
+2021-09-23 18:09:58,255 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:09:59,275 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:10:03,139 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:10:03,140 [main] INFO  runner.Runner - search element found
+2021-09-23 18:10:08,407 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:10:12,578 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:10:12,673 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:10:13,135 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 18:10:13,181 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 18:10:13,606 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 18:10:13,607 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 18:10:17,839 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:10:25,035 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:10:25,202 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:10:25,600 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 18:10:25,644 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 18:10:25,948 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 18:10:25,948 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 18:10:30,892 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:10:36,574 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:10:36,730 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:14:31,918 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:14:33,320 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:14:36,132 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:14:36,135 [main] INFO  runner.Runner - search element found
+2021-09-23 18:14:40,169 [main] INFO  runner.Runner - Search box found
+2021-09-23 18:14:40,443 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 18:14:44,097 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 18:14:44,098 [main] INFO  runner.Runner - search element found
+2021-09-23 18:14:50,093 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:14:58,976 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:14:59,083 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 18:14:59,539 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 18:14:59,602 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 18:14:59,855 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 18:14:59,855 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 18:15:03,727 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 18:15:08,972 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 18:15:09,022 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 16:52:03,155 [main] INFO  runner.Runner - Search box found
+2021-09-23 16:52:05,043 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 16:52:08,880 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 16:52:08,890 [main] INFO  runner.Runner - search element found
+2021-09-23 16:52:13,646 [main] INFO  runner.Runner - Search box found
+2021-09-23 16:52:14,500 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 16:52:18,114 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 16:52:18,114 [main] INFO  runner.Runner - search element found
+2021-09-23 16:52:25,492 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 16:52:33,596 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 16:52:33,659 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 16:52:34,061 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 16:52:34,126 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 16:52:34,526 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 16:52:34,527 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 16:52:38,067 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 16:52:44,251 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 16:52:44,315 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 16:57:08,120 [main] INFO  runner.Runner - Search box found
+2021-09-23 16:57:12,139 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 16:57:15,387 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 16:57:15,393 [main] INFO  runner.Runner - search element found
+2021-09-23 16:57:21,193 [main] INFO  runner.Runner - Search box found
+2021-09-23 16:57:21,876 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 16:57:25,090 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 16:57:25,090 [main] INFO  runner.Runner - search element found
+2021-09-23 17:00:07,702 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:00:08,148 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:00:14,971 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:00:14,983 [main] INFO  runner.Runner - search element found
+2021-09-23 17:00:21,303 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:00:24,321 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:00:27,207 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:00:27,207 [main] INFO  runner.Runner - search element found
+2021-09-23 17:00:32,284 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 17:00:36,473 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 17:00:36,558 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 17:00:37,369 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 17:00:37,431 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 17:00:37,928 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 17:00:37,929 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 17:00:42,025 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 17:00:47,949 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 17:00:48,032 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 17:02:55,225 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:02:58,217 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:03:01,075 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:03:01,079 [main] INFO  runner.Runner - search element found
+2021-09-23 17:03:04,339 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:03:04,951 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:03:07,501 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:03:07,502 [main] INFO  runner.Runner - search element found
+2021-09-23 17:12:54,637 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:12:55,088 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:12:57,892 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:12:57,898 [main] INFO  runner.Runner - search element found
+2021-09-23 17:13:02,706 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:13:03,752 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:13:07,662 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:13:07,663 [main] INFO  runner.Runner - search element found
+2021-09-23 17:13:14,303 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 17:13:14,371 [main] INFO  runner.Runner - Help section found
+2021-09-23 17:13:16,685 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 17:13:18,136 [main] INFO  runner.Runner - Question asked
+2021-09-23 17:13:18,136 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 17:13:20,578 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 17:13:20,641 [main] INFO  runner.Runner - Help section found
+2021-09-23 17:13:22,777 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 17:13:24,853 [main] INFO  runner.Runner - Question asked
+2021-09-23 17:13:24,853 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 17:15:30,091 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:15:31,232 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:15:33,155 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:15:33,158 [main] INFO  runner.Runner - search element found
+2021-09-23 17:15:37,001 [main] INFO  runner.Runner - Search box found
+2021-09-23 17:15:37,361 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 17:15:39,275 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 17:15:39,276 [main] INFO  runner.Runner - search element found
+2021-09-23 17:15:45,141 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 17:15:50,362 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 17:15:50,464 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 17:15:50,776 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 17:15:50,823 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 17:15:51,044 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 17:15:51,044 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 17:15:54,569 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 17:15:58,525 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 17:15:58,557 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 17:16:01,652 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 17:16:01,733 [main] INFO  runner.Runner - Help section found
+2021-09-23 17:16:03,214 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 17:16:04,734 [main] INFO  runner.Runner - Question asked
+2021-09-23 17:16:04,734 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 17:16:07,934 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 17:16:08,019 [main] INFO  runner.Runner - Help section found
+2021-09-23 17:16:09,624 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 17:16:11,230 [main] INFO  runner.Runner - Question asked
+2021-09-23 17:16:11,231 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:25:39,512 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:25:50,259 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:25:53,132 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:25:55,993 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 19:25:55,994 [main] INFO  runner.Runner - search element found
+2021-09-23 19:26:00,419 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:26:01,893 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:26:03,676 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 19:26:03,676 [main] INFO  runner.Runner - search element found
+2021-09-23 19:26:09,359 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:26:13,325 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:26:13,402 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:26:13,712 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 19:26:13,797 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 19:26:14,110 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 19:26:14,110 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 19:26:17,578 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:26:21,613 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:26:21,697 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:26:24,443 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:26:24,585 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:26:26,126 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:26:27,567 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:26:27,567 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:26:30,734 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:26:30,780 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:26:32,253 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:26:33,931 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:26:33,932 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:27:31,688 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:27:33,332 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:27:35,683 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 19:27:35,688 [main] INFO  runner.Runner - search element found
+2021-09-23 19:27:39,605 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:27:40,400 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:27:42,330 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 19:27:42,330 [main] INFO  runner.Runner - search element found
+2021-09-23 19:27:46,423 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:27:50,746 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:27:50,847 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:27:51,064 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 19:27:51,108 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 19:27:51,299 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 19:27:51,300 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 19:27:55,005 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:28:00,135 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:28:00,174 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:28:03,319 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:28:03,507 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:28:04,818 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:28:06,163 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:28:06,163 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:28:09,202 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:28:09,248 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:28:11,462 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:28:12,769 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:28:12,769 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:28:18,791 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:38:40,764 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:38:52,581 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:38:56,419 [main] INFO  runner.Runner - Search box found
+2021-09-23 19:39:02,200 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 19:39:05,691 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 19:39:05,701 [main] INFO  runner.Runner - search element found
+2021-09-23 19:39:11,396 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:39:16,626 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:39:16,733 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:39:17,104 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 19:39:17,155 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 19:39:17,469 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 19:39:17,469 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 19:39:21,689 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 19:39:25,550 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 19:39:25,597 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 19:39:31,518 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:39:31,553 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:39:33,545 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:39:35,246 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:39:35,247 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:39:38,518 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:39:38,933 [main] INFO  runner.Runner - Help section found
+2021-09-23 19:39:41,141 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 19:39:43,333 [main] INFO  runner.Runner - Question asked
+2021-09-23 19:39:43,333 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 19:39:49,053 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 19:39:49,092 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 19:39:49,092 [main] INFO  runner.Runner - Form availbale
+2021-09-23 20:12:37,971 [main] INFO  runner.Runner - Search box found
+2021-09-23 20:12:39,156 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 20:12:41,698 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 20:12:41,702 [main] INFO  runner.Runner - search element found
+2021-09-23 20:12:45,620 [main] INFO  runner.Runner - Search box found
+2021-09-23 20:12:49,691 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 20:12:53,425 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 20:12:53,426 [main] INFO  runner.Runner - search element found
+2021-09-23 20:12:58,638 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 20:13:07,472 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 20:13:07,549 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 20:13:07,849 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 20:13:07,921 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 20:13:08,317 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 20:13:08,318 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 20:13:15,812 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:13:16,213 [main] INFO  runner.Runner - Help section found
+2021-09-23 20:13:17,517 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 20:13:19,380 [main] INFO  runner.Runner - Question asked
+2021-09-23 20:13:19,381 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 20:13:22,602 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:13:22,701 [main] INFO  runner.Runner - Help section found
+2021-09-23 20:13:24,562 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 20:13:26,249 [main] INFO  runner.Runner - Question asked
+2021-09-23 20:13:26,249 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 20:13:37,821 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:13:37,864 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 20:13:37,864 [main] INFO  runner.Runner - Form availbale
+2021-09-23 20:23:47,360 [main] INFO  runner.Runner - Search box found
+2021-09-23 20:23:51,348 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 20:23:54,365 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 20:23:54,372 [main] INFO  runner.Runner - search element found
+2021-09-23 20:23:59,708 [main] INFO  runner.Runner - Search box found
+2021-09-23 20:24:03,385 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 20:24:06,265 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 20:24:06,265 [main] INFO  runner.Runner - search element found
+2021-09-23 20:24:11,221 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 20:24:18,078 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 20:24:18,415 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 20:24:18,712 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 20:24:18,757 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 20:24:19,161 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 20:24:19,161 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 20:24:23,815 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 20:24:27,916 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 20:24:27,995 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 20:24:31,989 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:24:32,229 [main] INFO  runner.Runner - Help section found
+2021-09-23 20:24:33,815 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 20:24:35,717 [main] INFO  runner.Runner - Question asked
+2021-09-23 20:24:35,717 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 20:24:39,055 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:24:39,290 [main] INFO  runner.Runner - Help section found
+2021-09-23 20:24:40,934 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 20:24:42,118 [main] INFO  runner.Runner - Question asked
+2021-09-23 20:24:42,118 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 20:24:51,948 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 20:24:51,995 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 20:24:51,995 [main] INFO  runner.Runner - Form availbale
+2021-09-23 22:12:55,261 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:12:55,594 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:12:58,860 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:12:58,866 [main] INFO  runner.Runner - search element found
+2021-09-23 22:13:04,464 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:13:04,997 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:13:07,801 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:13:07,802 [main] INFO  runner.Runner - search element found
+2021-09-23 22:13:12,669 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:13:20,154 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:13:20,214 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:13:20,506 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 22:13:20,563 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 22:13:21,167 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 22:13:21,167 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 22:13:25,609 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:13:30,817 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:13:30,872 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:13:34,188 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:13:34,300 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:13:36,465 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:13:38,624 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:13:38,625 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:13:43,365 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:13:43,460 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:13:45,644 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:13:48,214 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:13:48,215 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:13:55,252 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:13:55,431 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 22:13:55,431 [main] INFO  runner.Runner - Form availbale
+2021-09-23 22:13:59,000 [main] WARN  runner.Runner - Sale
+2021-09-23 22:13:59,149 [main] WARN  runner.Runner - Living
+2021-09-23 22:13:59,253 [main] WARN  runner.Runner - Bedroom
+2021-09-23 22:13:59,288 [main] WARN  runner.Runner - Dining
+2021-09-23 22:13:59,341 [main] WARN  runner.Runner - Storage
+2021-09-23 22:13:59,367 [main] WARN  runner.Runner - Study
+2021-09-23 22:13:59,410 [main] WARN  runner.Runner - Kids Room
+2021-09-23 22:13:59,476 [main] WARN  runner.Runner - Mattresses
+2021-09-23 22:13:59,502 [main] WARN  runner.Runner - Decor
+2021-09-23 22:13:59,588 [main] WARN  runner.Runner - Collections
+2021-09-23 22:13:59,589 [main] INFO  runner.Runner - Navbar features available
+2021-09-23 22:40:38,204 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:40:39,513 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:40:46,988 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:40:46,992 [main] INFO  runner.Runner - search element found
+2021-09-23 22:40:52,111 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:40:55,887 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:40:58,471 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:40:58,472 [main] INFO  runner.Runner - search element found
+2021-09-23 22:41:03,962 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:41:11,863 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:41:11,947 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:41:12,266 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 22:41:12,316 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 22:41:12,556 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 22:41:12,556 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 22:41:16,208 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:41:20,563 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:41:20,627 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:41:22,824 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:41:22,886 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:41:24,732 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:41:26,539 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:41:26,539 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:41:30,497 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:41:30,628 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:41:31,922 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:41:34,175 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:41:34,177 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:41:41,619 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:41:41,649 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 22:41:41,649 [main] INFO  runner.Runner - Form availbale
+2021-09-23 22:41:43,861 [main] WARN  runner.Runner - Sale
+2021-09-23 22:41:43,888 [main] WARN  runner.Runner - Living
+2021-09-23 22:41:43,956 [main] WARN  runner.Runner - Bedroom
+2021-09-23 22:41:43,987 [main] WARN  runner.Runner - Dining
+2021-09-23 22:41:44,044 [main] WARN  runner.Runner - Storage
+2021-09-23 22:41:44,085 [main] WARN  runner.Runner - Study
+2021-09-23 22:41:44,110 [main] WARN  runner.Runner - Kids Room
+2021-09-23 22:41:44,132 [main] WARN  runner.Runner - Mattresses
+2021-09-23 22:41:44,175 [main] WARN  runner.Runner - Decor
+2021-09-23 22:41:44,538 [main] WARN  runner.Runner - Collections
+2021-09-23 22:41:44,540 [main] INFO  runner.Runner - Navbar features available
+2021-09-23 22:41:46,230 [main] WARN  runner.Runner - 
+2021-09-23 22:41:46,276 [main] WARN  runner.Runner - 
+2021-09-23 22:41:46,331 [main] WARN  runner.Runner - 
+2021-09-23 22:41:46,376 [main] WARN  runner.Runner - 
+2021-09-23 22:41:46,425 [main] WARN  runner.Runner - 
+2021-09-23 22:41:47,044 [main] WARN  runner.Runner - 
+2021-09-23 22:41:47,045 [main] INFO  runner.Runner - Different Payment methods available here
+2021-09-23 22:45:24,211 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:45:25,644 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:45:28,665 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:45:28,673 [main] INFO  runner.Runner - search element found
+2021-09-23 22:45:33,470 [main] INFO  runner.Runner - Search box found
+2021-09-23 22:45:36,110 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-23 22:45:39,975 [main] INFO  runner.Runner - Search button clicked
+2021-09-23 22:45:39,976 [main] INFO  runner.Runner - search element found
+2021-09-23 22:45:45,458 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:45:50,070 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:45:50,151 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:45:50,391 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-23 22:45:50,454 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-23 22:45:50,712 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-23 22:45:50,712 [main] INFO  runner.Runner - Track Order Found
+2021-09-23 22:45:54,283 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-23 22:46:00,080 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-23 22:46:00,140 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-23 22:46:03,835 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:46:03,880 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:46:05,704 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:46:07,549 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:46:07,549 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:46:10,650 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:46:10,820 [main] INFO  runner.Runner - Help section found
+2021-09-23 22:46:12,070 [main] INFO  runner.Runner - Question send in text box
+2021-09-23 22:46:14,352 [main] INFO  runner.Runner - Question asked
+2021-09-23 22:46:14,352 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-23 22:46:25,769 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-23 22:46:25,898 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-23 22:46:25,899 [main] INFO  runner.Runner - Form availbale
+2021-09-23 22:46:31,832 [main] WARN  runner.Runner - Sale
+2021-09-23 22:46:31,863 [main] WARN  runner.Runner - Living
+2021-09-23 22:46:31,927 [main] WARN  runner.Runner - Bedroom
+2021-09-23 22:46:31,964 [main] WARN  runner.Runner - Dining
+2021-09-23 22:46:32,042 [main] WARN  runner.Runner - Storage
+2021-09-23 22:46:32,068 [main] WARN  runner.Runner - Study
+2021-09-23 22:46:32,094 [main] WARN  runner.Runner - Kids Room
+2021-09-23 22:46:32,120 [main] WARN  runner.Runner - Mattresses
+2021-09-23 22:46:32,151 [main] WARN  runner.Runner - Decor
+2021-09-23 22:46:32,176 [main] WARN  runner.Runner - Collections
+2021-09-23 22:46:32,177 [main] INFO  runner.Runner - Navbar features available
+2021-09-23 22:46:36,614 [main] WARN  runner.Runner - Visa color
+2021-09-23 22:46:36,713 [main] WARN  runner.Runner - Mastercard color
+2021-09-23 22:46:36,801 [main] WARN  runner.Runner - Maestro color
+2021-09-23 22:46:36,861 [main] WARN  runner.Runner - Amex color
+2021-09-23 22:46:36,896 [main] WARN  runner.Runner - Rupay color
+2021-09-23 22:46:36,928 [main] WARN  runner.Runner - Bhim upi color
+2021-09-23 22:46:36,929 [main] INFO  runner.Runner - Different Payment methods available here
+2021-09-24 18:22:38,070 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:22:40,231 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:22:45,498 [main] INFO  runner.Runner - Search button clicked
+2021-09-24 18:22:45,508 [main] INFO  runner.Runner - search element found
+2021-09-24 18:22:53,376 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:23:04,434 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:23:14,064 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-24 18:23:30,404 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-24 18:23:30,965 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-24 18:23:31,371 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-24 18:23:31,768 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-24 18:23:33,228 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-24 18:23:33,231 [main] INFO  runner.Runner - Track Order Found
+2021-09-24 18:23:42,888 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-24 18:24:00,187 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-24 18:24:01,501 [main] INFO  runner.Runner - Help section found
+2021-09-24 18:24:04,150 [main] INFO  runner.Runner - Question send in text box
+2021-09-24 18:24:07,644 [main] INFO  runner.Runner - Question asked
+2021-09-24 18:24:07,645 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-24 18:24:16,458 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-24 18:24:17,204 [main] INFO  runner.Runner - Help section found
+2021-09-24 18:24:22,822 [main] INFO  runner.Runner - Question send in text box
+2021-09-24 18:24:26,439 [main] INFO  runner.Runner - Question asked
+2021-09-24 18:24:26,439 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-24 18:24:51,521 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-24 18:24:51,557 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-24 18:24:51,557 [main] INFO  runner.Runner - Form availbale
+2021-09-24 18:25:02,209 [main] WARN  runner.Runner - Sale
+2021-09-24 18:25:02,255 [main] WARN  runner.Runner - Living
+2021-09-24 18:25:02,312 [main] WARN  runner.Runner - Bedroom
+2021-09-24 18:25:02,360 [main] WARN  runner.Runner - Dining
+2021-09-24 18:25:02,399 [main] WARN  runner.Runner - Storage
+2021-09-24 18:25:02,427 [main] WARN  runner.Runner - Study
+2021-09-24 18:25:02,506 [main] WARN  runner.Runner - Kids Room
+2021-09-24 18:25:02,615 [main] WARN  runner.Runner - Mattresses
+2021-09-24 18:25:02,685 [main] WARN  runner.Runner - Decor
+2021-09-24 18:25:02,747 [main] WARN  runner.Runner - Collections
+2021-09-24 18:25:02,748 [main] INFO  runner.Runner - Navbar features available
+2021-09-24 18:25:11,907 [main] WARN  runner.Runner - Visa color
+2021-09-24 18:25:11,974 [main] WARN  runner.Runner - Mastercard color
+2021-09-24 18:25:12,236 [main] WARN  runner.Runner - Maestro color
+2021-09-24 18:25:12,896 [main] WARN  runner.Runner - Amex color
+2021-09-24 18:25:13,015 [main] WARN  runner.Runner - Rupay color
+2021-09-24 18:25:13,126 [main] WARN  runner.Runner - Bhim upi color
+2021-09-24 18:25:13,126 [main] INFO  runner.Runner - Different Payment methods available here
+2021-09-24 18:25:32,421 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:31:30,155 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:31:36,410 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:32:03,550 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:32:05,848 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:33:43,209 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:33:44,066 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:33:56,367 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:33:58,697 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:34:02,890 [main] INFO  runner.Runner - Search button clicked
+2021-09-24 18:34:02,903 [main] INFO  runner.Runner - search element found
+2021-09-24 18:35:54,992 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:36:07,572 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:36:13,709 [main] INFO  runner.Runner - Search box found
+2021-09-24 18:36:15,317 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-24 18:36:19,596 [main] INFO  runner.Runner - Search button clicked
+2021-09-24 18:36:19,603 [main] INFO  runner.Runner - search element found
+2021-09-24 18:36:48,955 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:41:51,667 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:49:18,788 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:53:28,717 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 19:08:55,345 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 19:54:00,860 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:01:15,095 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:03:17,711 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:05:21,473 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:07:48,927 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:10:35,296 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:17:22,224 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:18:46,074 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:24:35,978 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:27:09,870 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:29:19,468 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:29:31,566 [main] INFO  runner.Runner - Insiden else
+2021-09-24 21:29:31,566 [main] INFO  runner.Runner - true
+2021-09-24 21:29:31,569 [main] INFO  runner.Runner - Successfully logged in
+2021-09-24 21:34:39,916 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:34:44,570 [main] INFO  runner.Runner - Insiden if
+2021-09-24 21:34:44,571 [main] INFO  runner.Runner - false
+2021-09-24 21:46:11,291 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:46:22,603 [main] INFO  runner.Runner - Insiden else
+2021-09-24 21:46:22,603 [main] INFO  runner.Runner - true
+2021-09-24 21:46:22,609 [main] INFO  runner.Runner - Successfully logged in
+2021-09-24 21:50:43,544 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:50:48,224 [main] INFO  runner.Runner - Insiden if
+2021-09-24 21:50:48,225 [main] INFO  runner.Runner - false
+2021-09-24 21:50:57,644 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:51:02,105 [main] INFO  runner.Runner - Insiden if
+2021-09-24 21:51:02,105 [main] INFO  runner.Runner - false
+2021-09-24 21:51:12,562 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:51:23,198 [main] INFO  runner.Runner - Insiden else
+2021-09-24 21:51:23,198 [main] INFO  runner.Runner - true
+2021-09-24 21:51:23,198 [main] INFO  runner.Runner - Successfully logged in
+2021-09-24 21:56:39,025 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:56:43,515 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-24 21:56:53,204 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:56:57,212 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-24 21:57:06,948 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 21:57:17,170 [main] INFO  runner.Runner - Successfully locked in
+2021-09-24 17:30:30,694 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:30:41,244 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:30:50,955 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:39:55,369 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:40:08,198 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:40:23,112 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:46:41,308 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 17:51:53,887 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:00:05,470 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:00:16,496 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:05:13,391 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:05:16,541 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-24 18:05:23,402 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:05:32,077 [main] INFO  runner.Runner - Successfully locked in
+2021-09-24 18:10:34,804 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:10:39,543 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-24 18:10:49,969 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-24 18:10:58,833 [main] INFO  runner.Runner - Successfully locked in
+2021-09-25 04:36:19,763 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 04:36:28,590 [main] INFO  runner.Runner - Successfully logged in
+2021-09-25 04:36:28,620 [main] INFO  runner.Runner - Search box found
+2021-09-25 04:36:28,814 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 04:36:31,890 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 04:36:31,890 [main] INFO  runner.Runner - Product Searched
+2021-09-25 04:36:42,423 [main] INFO  runner.Runner - Add to cart button clicked
+2021-09-25 04:36:42,637 [main] INFO  runner.Runner - Cart progress bar displayed
+2021-09-25 04:36:43,103 [main] INFO  runner.Runner - Cart item is Galen Study Chair
+2021-09-25 04:36:43,121 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 04:36:43,151 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 04:36:43,154 [main] INFO  runner.Runner - Item Added to Cart successfully
+2021-09-25 04:55:15,158 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 04:55:24,246 [main] INFO  runner.Runner - Successfully logged in
+2021-09-25 04:55:24,278 [main] INFO  runner.Runner - Search box found
+2021-09-25 04:55:24,431 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 04:55:25,970 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 04:55:25,970 [main] INFO  runner.Runner - Product Searched
+2021-09-25 04:55:34,616 [main] INFO  runner.Runner - Add to cart button clicked
+2021-09-25 04:55:35,453 [main] INFO  runner.Runner - Cart progress bar displayed
+2021-09-25 04:55:35,741 [main] INFO  runner.Runner - Cart item is Galen Study Chair
+2021-09-25 04:55:35,780 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 04:55:35,814 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 04:55:35,818 [main] INFO  runner.Runner - Item Added to Cart successfully
+2021-09-25 05:03:00,911 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:03:01,969 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:03:03,601 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:03:03,604 [main] INFO  runner.Runner - search element found
+2021-09-25 05:03:07,018 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:03:07,179 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:03:08,973 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:03:08,973 [main] INFO  runner.Runner - search element found
+2021-09-25 05:03:13,398 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-25 05:03:18,837 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-25 05:03:18,903 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-25 05:03:19,100 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-25 05:03:19,201 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-25 05:03:19,660 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-25 05:03:19,660 [main] INFO  runner.Runner - Track Order Found
+2021-09-25 05:03:23,166 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-25 05:03:25,889 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-25 05:03:25,929 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-25 05:03:26,249 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-25 05:03:26,265 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-25 05:03:26,479 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-25 05:03:26,481 [main] INFO  runner.Runner - Track Order Found
+2021-09-25 05:03:30,620 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:03:30,684 [main] INFO  runner.Runner - Help section found
+2021-09-25 05:03:31,788 [main] INFO  runner.Runner - Question send in text box
+2021-09-25 05:03:33,572 [main] INFO  runner.Runner - Question asked
+2021-09-25 05:03:33,572 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-25 05:03:35,885 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:03:35,942 [main] INFO  runner.Runner - Help section found
+2021-09-25 05:03:37,120 [main] INFO  runner.Runner - Question send in text box
+2021-09-25 05:03:38,310 [main] INFO  runner.Runner - Question asked
+2021-09-25 05:03:38,310 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-25 05:03:42,970 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:03:43,000 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-25 05:03:43,000 [main] INFO  runner.Runner - Form availbale
+2021-09-25 05:03:44,367 [main] WARN  runner.Runner - Sale
+2021-09-25 05:03:44,382 [main] WARN  runner.Runner - Living
+2021-09-25 05:03:44,397 [main] WARN  runner.Runner - Bedroom
+2021-09-25 05:03:44,413 [main] WARN  runner.Runner - Dining
+2021-09-25 05:03:44,435 [main] WARN  runner.Runner - Storage
+2021-09-25 05:03:44,450 [main] WARN  runner.Runner - Study
+2021-09-25 05:03:44,464 [main] WARN  runner.Runner - Kids Room
+2021-09-25 05:03:44,505 [main] WARN  runner.Runner - Mattresses
+2021-09-25 05:03:44,525 [main] WARN  runner.Runner - Decor
+2021-09-25 05:03:44,544 [main] WARN  runner.Runner - Collections
+2021-09-25 05:03:44,545 [main] INFO  runner.Runner - Navbar features available
+2021-09-25 05:03:45,865 [main] WARN  runner.Runner - Visa color
+2021-09-25 05:03:45,903 [main] WARN  runner.Runner - Mastercard color
+2021-09-25 05:03:45,943 [main] WARN  runner.Runner - Maestro color
+2021-09-25 05:03:45,971 [main] WARN  runner.Runner - Amex color
+2021-09-25 05:03:45,993 [main] WARN  runner.Runner - Rupay color
+2021-09-25 05:03:46,032 [main] WARN  runner.Runner - Bhim upi color
+2021-09-25 05:03:46,033 [main] INFO  runner.Runner - Different Payment methods available here
+2021-09-25 05:03:53,057 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:03:56,428 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-25 05:04:03,750 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:04:12,737 [main] INFO  runner.Runner - Successfully locked in
+2021-09-25 05:19:40,980 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:19:41,591 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:19:43,385 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:19:43,389 [main] INFO  runner.Runner - search element found
+2021-09-25 05:19:46,597 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:19:46,931 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:19:48,249 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:19:48,249 [main] INFO  runner.Runner - search element found
+2021-09-25 05:19:52,423 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-25 05:19:56,040 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-25 05:19:56,082 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-25 05:19:56,240 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-25 05:19:56,262 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-25 05:19:56,460 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-25 05:19:56,460 [main] INFO  runner.Runner - Track Order Found
+2021-09-25 05:19:59,776 [main] INFO  runner.Runner - Track Order Icon found
+2021-09-25 05:20:02,354 [main] INFO  runner.Runner - Track Order Icon clicked
+2021-09-25 05:20:02,389 [main] INFO  runner.Runner - OrderNumber box found
+2021-09-25 05:20:02,963 [main] INFO  runner.Runner - Keys send in the Order Number box 
+2021-09-25 05:20:02,983 [main] INFO  runner.Runner - PhoneNumber box found
+2021-09-25 05:20:03,157 [main] INFO  runner.Runner - Keys send in the Phone Number box 
+2021-09-25 05:20:03,158 [main] INFO  runner.Runner - Track Order Found
+2021-09-25 05:20:07,641 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:20:07,704 [main] INFO  runner.Runner - Help section found
+2021-09-25 05:20:08,482 [main] INFO  runner.Runner - Question send in text box
+2021-09-25 05:20:09,990 [main] INFO  runner.Runner - Question asked
+2021-09-25 05:20:09,991 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-25 05:20:12,206 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:20:12,246 [main] INFO  runner.Runner - Help section found
+2021-09-25 05:20:13,790 [main] INFO  runner.Runner - Question send in text box
+2021-09-25 05:21:00,489 [main] INFO  runner.Runner - Question asked
+2021-09-25 05:21:00,490 [main] INFO  runner.Runner - Successfully helped by Application
+2021-09-25 05:21:05,831 [main] INFO  runner.Runner - Help Icon found and clicked
+2021-09-25 05:21:06,069 [main] INFO  runner.Runner - Get in touch form found fill it
+2021-09-25 05:21:06,069 [main] INFO  runner.Runner - Form availbale
+2021-09-25 05:21:08,288 [main] WARN  runner.Runner - Sale
+2021-09-25 05:21:08,322 [main] WARN  runner.Runner - Living
+2021-09-25 05:21:08,356 [main] WARN  runner.Runner - Bedroom
+2021-09-25 05:21:08,382 [main] WARN  runner.Runner - Dining
+2021-09-25 05:21:08,405 [main] WARN  runner.Runner - Storage
+2021-09-25 05:21:08,449 [main] WARN  runner.Runner - Study
+2021-09-25 05:21:08,477 [main] WARN  runner.Runner - Kids Room
+2021-09-25 05:21:08,541 [main] WARN  runner.Runner - Mattresses
+2021-09-25 05:21:08,561 [main] WARN  runner.Runner - Decor
+2021-09-25 05:21:08,630 [main] WARN  runner.Runner - Collections
+2021-09-25 05:21:08,630 [main] INFO  runner.Runner - Navbar features available
+2021-09-25 05:21:10,115 [main] WARN  runner.Runner - Visa color
+2021-09-25 05:21:10,170 [main] WARN  runner.Runner - Mastercard color
+2021-09-25 05:21:10,223 [main] WARN  runner.Runner - Maestro color
+2021-09-25 05:21:10,256 [main] WARN  runner.Runner - Amex color
+2021-09-25 05:21:10,308 [main] WARN  runner.Runner - Rupay color
+2021-09-25 05:21:10,329 [main] WARN  runner.Runner - Bhim upi color
+2021-09-25 05:21:10,330 [main] INFO  runner.Runner - Different Payment methods available here
+2021-09-25 05:21:17,906 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:21:21,070 [main] INFO  runner.Runner - Not a valid username or password
+2021-09-25 05:21:27,748 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:21:36,517 [main] INFO  runner.Runner - Successfully locked in
+2021-09-25 05:25:59,285 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:26:08,367 [main] INFO  runner.Runner - Successfully logged in
+2021-09-25 05:26:08,385 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:26:08,520 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:26:10,807 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:26:10,808 [main] INFO  runner.Runner - Product Searched
+2021-09-25 05:26:19,635 [main] INFO  runner.Runner - Add to cart button clicked
+2021-09-25 05:26:19,935 [main] INFO  runner.Runner - Cart progress bar displayed
+2021-09-25 05:26:20,211 [main] INFO  runner.Runner - Cart item is Galen Study Chair
+2021-09-25 05:26:20,330 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 05:26:20,335 [main] INFO  runner.Runner - Item Added to Cart successfully
+2021-09-25 05:41:54,725 [main] INFO  runner.Runner - Login Button Clicked now fill the details to login
+2021-09-25 05:42:03,424 [main] INFO  runner.Runner - Successfully logged in
+2021-09-25 05:42:03,450 [main] INFO  runner.Runner - Search box found
+2021-09-25 05:42:03,590 [main] INFO  runner.Runner - Keys send in the Search box 
+2021-09-25 05:42:05,472 [main] INFO  runner.Runner - Search button clicked
+2021-09-25 05:42:05,472 [main] INFO  runner.Runner - Product Searched
+2021-09-25 05:42:15,254 [main] INFO  runner.Runner - Add to cart button clicked
+2021-09-25 05:42:15,371 [main] INFO  runner.Runner - Cart progress bar displayed
+2021-09-25 05:42:15,695 [main] INFO  runner.Runner - Cart item is Galen Study Chair
+2021-09-25 05:42:15,741 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 05:42:15,810 [main] INFO  runner.Runner - Cart item is Weston Half Leather Sofa
+2021-09-25 05:42:15,815 [main] INFO  runner.Runner - Item Added to Cart successfully
